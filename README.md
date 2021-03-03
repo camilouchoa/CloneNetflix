@@ -14,11 +14,11 @@
   * color;
   * margin;
   * padding;
-  * allign;
+  * align;
   *  justify;
   * display;
   * mouse over(cursor, hover, transition, );
   * linear-gradient.
 * Conceitos de responsividade;
-* Utilização de scripts externos ao site (Font Awesome, Owl);
+* Utilização de scripts externos ao site (Font Awesome (javascript), Owl (jquery)).
 
